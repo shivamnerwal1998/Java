@@ -1,6 +1,6 @@
 
 import java.io.* ;
-public class Test {
+public class Taking_Input_from_InputStream{
 
     public static void main(String[] args) throws Exception {
 
